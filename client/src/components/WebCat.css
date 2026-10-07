@@ -1,0 +1,22 @@
+.web-cat { position: fixed; top: 0; left: 0; width: 104px; height: 100px; z-index: 30; transition: transform 2.2s ease-in-out; pointer-events: none; }
+.web-cat.is-dragging { transition: none; }
+.web-cat__character { display: block; width: 104px; height: 100px; padding: 0; border: 0; background: transparent; cursor: grab; touch-action: none; pointer-events: auto; border-radius: 24px; user-select: none; }
+.is-dragging .web-cat__character { cursor: grabbing; }
+.web-cat__drawing svg { display: block; width: 104px; height: 100px; overflow: visible; filter: drop-shadow(0 3px 3px #83184315); }
+.web-cat__tail { transform-origin: 88px 82px; animation: cat-tail 3s ease-in-out infinite; }
+.web-cat__head { transform-origin: 60px 65px; }
+.is-walking .web-cat__drawing { animation: cat-step .28s ease-in-out infinite alternate; }
+.is-sleeping .web-cat__drawing svg { animation: cat-breathe 3s ease-in-out infinite; }
+.is-sleeping .web-cat__tail { animation: none; }
+.web-cat__bubble { position: absolute; bottom: 107px; left: 50%; transform: translateX(-50%); width: 175px; padding: 9px 12px; border: 1px solid #f4b7d3; border-radius: 15px 15px 15px 4px; background: #fff8fc; color: #831843; font: 600 12px/1.5 "Segoe UI",sans-serif; box-shadow: 0 6px 20px #8318431a; }
+.web-cat__menu { position: absolute; top: 82px; left: 50%; transform: translateX(-50%); display: flex; gap: 3px; padding: 4px; border: 1px solid #f3c8dc; border-radius: 13px; background: #fff8fc; box-shadow: 0 6px 20px #83184322; pointer-events: auto; }
+.web-cat__menu button { display: grid; place-items: center; width: 30px; height: 30px; padding: 0; border: 0; border-radius: 9px; background: transparent; color: #be185d; cursor: pointer; }
+.web-cat__menu button:hover { background: #fce7f3; }
+.web-cat__zzz, .web-cat__heart { position: absolute; right: 4px; top: -6px; color: #be185d; font: 800 18px "Segoe UI",sans-serif; }
+.web-cat__heart { animation: cat-heart 1.2s ease-in-out infinite; }
+.web-cat-restore { position: fixed; right: 14px; bottom: 14px; z-index: 30; display: grid; place-items: center; width: 38px; height: 38px; border: 1px solid #f3c8dc; border-radius: 50%; color: #be185d; background: #fff8fc; cursor: pointer; box-shadow: 0 4px 14px #8318431a; }
+@keyframes cat-tail { 0%,100% { transform: rotate(-5deg); } 50% { transform: rotate(7deg); } }
+@keyframes cat-step { from { translate: 0 0; } to { translate: 0 -4px; } }
+@keyframes cat-breathe { 0%,100% { scale: 1; } 50% { scale: 1.025 1; } }
+@keyframes cat-heart { 0%,100% { translate: 0 0; opacity: .6; } 50% { translate: 0 -8px; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .web-cat { transition: none; } .web-cat * { animation: none !important; } }

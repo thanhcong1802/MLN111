@@ -1,0 +1,388 @@
+{
+  "id": "root",
+  "color": "#EC4899",
+  "title": "Triết học Mác – Lênin",
+  "subtitle": "Hệ thống kiến thức về tự nhiên, con người, xã hội và lịch sử.",
+  "description": "Triết học Mác – Lênin là hệ thống nhận thức và phân tích kiến thức tập trung vào vật chất, ý thức, lịch sử và các mối liên hệ phát triển của sự vật.",
+  "children": [
+    {
+      "id": "chapter-1",
+      "title": "Khái luận về triết học và Triết học Mác – Lênin",
+      "shortTitle": "Khái luận triết học",
+      "color": "#FB923C",
+      "description": "Khái niệm, nguồn gốc, đối tượng và vai trò của triết học Mác – Lênin trong nhận thức và thực tiễn.",
+      "children": [
+        {
+          "id": "chapter-1-1",
+          "title": "Khái niệm triết học",
+          "description": "Triết học là hệ thống kiến thức về tự nhiên, con người, xã hội và lịch sử, giúp xác định bản chất và quy luật của sự vật.",
+          "children": [
+            {
+              "id": "chapter-1-1-1",
+              "title": "Nguồn gốc của triết học",
+              "description": "Triết học hình thành từ nhu cầu hiểu kiến thức, phân tích sự vật và tìm ra nguyên lý của hành động xã hội.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-1-2",
+              "title": "Khái niệm triết học",
+              "description": "Triết học là hệ thống nhận thức và phân tích kiến thức về bản chất của sự vật và các mối liên hệ của chúng.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-1-3",
+              "title": "Vấn đề cơ bản của triết học",
+              "description": "Vấn đề cơ bản xác định đối tượng, bản chất và các nguyên lý chính của triết học.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-1-4",
+              "title": "Các trường phái triết học chủ yếu",
+              "description": "Các trường phái triết học khác nhau trong cách xác định bản chất, nguyên lý và phương pháp nghiên cứu sự vật.",
+              "color": "#FB923C"
+            }
+          ],
+          "color": "#FB923C"
+        },
+        {
+          "id": "chapter-1-2",
+          "title": "Chủ nghĩa duy vật",
+          "description": "Chủ nghĩa duy vật xem vật chất là bản chất của tự nhiên và xác định các quy luật của sự vật từ vật chất.",
+          "children": [
+            {
+              "id": "chapter-1-2-1",
+              "title": "Chủ nghĩa duy tâm",
+              "description": "Chủ nghĩa duy tâm coi ý thức, tư duy và cảm xúc là yếu tố cốt lõi của con người.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-2-2",
+              "title": "Thuyết khả tri và bất khả tri",
+              "description": "Thuyết khả tri là những trạng thái của vật chất có thể biến đổi; bất khả tri là những trạng thái không thể biến đổi.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-2-3",
+              "title": "Triết học Mác – Lênin",
+              "description": "Triết học Mác – Lênin xây dựng hệ thống kiến thức dựa trên vật chất, ý thức, lịch sử và quan hệ phát triển.",
+              "color": "#FB923C"
+            }
+          ],
+          "color": "#FB923C"
+        },
+        {
+          "id": "chapter-1-3",
+          "title": "Điều kiện ra đời",
+          "description": "Điều kiện ra đời xác định các yếu tố nền tảng khiến triết học Mác – Lênin có thể hình thành.",
+          "children": [
+            {
+              "id": "chapter-1-3-1",
+              "title": "Đặc điểm cơ bản",
+              "description": "Carrảng, tổng hợp và hệ thống hóa kiến thức để xác định các nguyên lý trực tiếp của sự vật.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-3-2",
+              "title": "Đối tượng nghiên cứu",
+              "description": "Đối tượng nghiên cứu là tự nhiên, con người, xã hội và lịch sử trong các mối liên hệ phát triển.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-3-3",
+              "title": "Vai trò của triết học Mác – Lênin",
+              "description": "Triết học Mác – Lênin cung cấp hệ thống nhận thức, phương pháp phân tích và luận điểm cho nghiên cứu khoa học.",
+              "color": "#FB923C"
+            }
+          ],
+          "color": "#FB923C"
+        },
+        {
+          "id": "chapter-1-4",
+          "title": "Thế giới quan",
+          "description": "Thế giới quan là cách nhìn tổng quát của triết học Mác – Lênin về sự vật và các mối liên hệ của chúng.",
+          "children": [
+            {
+              "id": "chapter-1-4-1",
+              "title": "Phương pháp luận",
+              "description": "Phương pháp luận xác định cách thức nghiên cứu, phân tích và kết luận từ các hiện tượng của sự vật.",
+              "color": "#FB923C"
+            },
+            {
+              "id": "chapter-1-4-2",
+              "title": "Vai trò trong nhận thức và thực tiễn",
+              "description": "Triết học Mác – Lênin góp phần định hình nhận thức khoa học và hướng dẫn hành động thực tiễn.",
+              "color": "#FB923C"
+            }
+          ],
+          "color": "#FB923C"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "title": "Chủ nghĩa duy vật biện chứng",
+      "shortTitle": "Duy vật biện chứng",
+      "color": "#A78BFA",
+      "description": "Nghiên cứu vật chất, ý thức, quan hệ giữa chúng và các quy luật biện chứng của sự vật.",
+      "children": [
+        {
+          "id": "chapter-2-1",
+          "title": "Vật chất và ý thức",
+          "description": "Vật chất là nền tảng tồn tại của sự vật; ý thức là hệ thống cảm xúc, tư duy và nhận thức của con người.",
+          "children": [
+            {
+              "id": "chapter-2-1-1",
+              "title": "Khái niệm vật chất",
+              "description": "Vật chất là thứ tồn tại có tính thực, có thể cảm nhận và tác động vào các cảm biến của con người.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-1-2",
+              "title": "Phương thức và hình thức tồn tại của vật chất",
+              "description": "Vật chất tồn tại dưới nhiều hình thức như chất, năng, lượng và các cấu trúc vật lý.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-1-3",
+              "title": "Nguồn gốc của ý thức",
+              "description": "Ý thức có nguồn gốc từ quá trình nhận thức, cảm xúc và tư duy của con người.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-1-4",
+              "title": "Bản chất của ý thức",
+              "description": "Bản chất ý thức là các yếu tố như cảm xúc, tư duy, niềm tin và nhận thức của con người.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-1-5",
+              "title": "Mối quan hệ vật chất – ý thức",
+              "description": "Vật chất tạo điều kiện cho ý thức phát triển, còn ý thức phản ánh và phân tích vật chất.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-1-6",
+              "title": "Phép biện chứng duy vật",
+              "description": "Phép biện chứng duy vật xác định sự biến đổi của vật chất qua các giai đoạn và mối liên hệ giữa các trạng thái.",
+              "color": "#A78BFA"
+            }
+          ],
+          "color": "#A78BFA"
+        },
+        {
+          "id": "chapter-2-2",
+          "title": "Khái niệm phép biện chứng",
+          "description": "Phép biện chứng là cách xác định đúng chắn thực của một vấn đề bằng các lập luận hợp lý và thực tiễn.",
+          "children": [
+            {
+              "id": "chapter-2-2-1",
+              "title": "Hai nguyên lý cơ bản",
+              "description": "Nguyên lý thứ nhất và nguyên lý thứ hai của biện chứng xác định các bước đầu tiên trong luận điểm.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-2-2",
+              "title": "Các cặp phạm trù cơ bản",
+              "description": "Các cặp phạm trù như nguồn – đích, nguyên – hậu, tồn tại – không tồn tại giúp phân biệt các khái niệm.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-2-3",
+              "title": "Ba quy luật cơ bản",
+              "description": "Ba quy luật cơ bản về bản chất, quy luật và trạng thái của sự vật trong các lập luận biện chứng.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-2-4",
+              "title": "Lý luận nhận thức",
+              "description": "Lý luận nhận thức nối các nhận thức, lập luận và kết luận để xác định đúng sai của một vấn đề.",
+              "color": "#A78BFA"
+            }
+          ],
+          "color": "#A78BFA"
+        },
+        {
+          "id": "chapter-2-3",
+          "title": "Thực tiễn",
+          "description": "Thực tiễn là nguồn liệu từ khi nghiên cứu các sự vật và xác định các quy luật của chúng.",
+          "children": [
+            {
+              "id": "chapter-2-3-1",
+              "title": "Nhận thức",
+              "description": "Nhận thức là quá trình cảm nhận, tổng hợp và phân tích các thông tin từ sự vật.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-3-2",
+              "title": "Các giai đoạn của nhận thức",
+              "description": "Nhận thức gồm các giai đoạn từ cảm nhận, phân tích, tổng hợp đến kết luận.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-3-3",
+              "title": "Chân lý",
+              "description": "Chân lý sử dụng các luận cứ hợp lý để xác nhận hoặc bác chứng một kết luận.",
+              "color": "#A78BFA"
+            },
+            {
+              "id": "chapter-2-3-4",
+              "title": "Vai trò của thực tiễn đối với nhận thức",
+              "description": "Thực tiễn là nền tảng kiểm chứng nhận thức và giúp xác định tính đúng của kiến thức.",
+              "color": "#A78BFA"
+            }
+          ],
+          "color": "#A78BFA"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "title": "Chủ nghĩa duy vật lịch sử",
+      "shortTitle": "Duy vật lịch sử",
+      "color": "#2DD4BF",
+      "description": "Nghiên cứu xã hội, con người, lịch sử và các nguyên nhân phát triển của các hình thái kinh tế – xã hội.",
+      "children": [
+        {
+          "id": "chapter-3-1",
+          "title": "Học thuyết hình thái kinh tế – xã hội",
+          "description": "Kinh tế – xã hội gồm các cấu trúc và quan hệ tạo nên sự phát triển của cộng đồng.",
+          "children": [
+            {
+              "id": "chapter-3-1-1",
+              "title": "Sản xuất vật chất",
+              "description": "Sản xuất vật chất là quá trình tạo ra các sản phẩm cần thiết cho nhu cầu của con người.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-2",
+              "title": "Lực lượng sản xuất",
+              "description": "Lực lượng sản xuất phản ánh khả năng sản xuất của con người và các điều kiện kinh tế.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-3",
+              "title": "Quan hệ sản xuất",
+              "description": "Quan hệ sản xuất xác định mối liên hệ giữa người lao động, tư duy và các điều kiện sản xuất.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-4",
+              "title": "Cơ sở hạ tầng",
+              "description": "Cơ sở hạ tầng gồm tài nguyên, công cụ và điều kiện để thực tiễn sản xuất.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-5",
+              "title": "Kiến trúc thượng tầng",
+              "description": "Kiến trúc thượng tầng gồm các tổ chức hành chính, kinh tế, văn hóa và phát triển xã hội.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-6",
+              "title": "Hình thái kinh tế – xã hội",
+              "description": "Hình thái kinh tế – xã hội là cách thức tổ chức sản xuất và phân bố sản phẩm trong cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-1-7",
+              "title": "Giai cấp và đấu tranh giai cấp",
+              "description": "Giai cấp là nhóm người có các điều kiện sống và quyền lợi khác nhau; đấu tranh giai cấp phản ánh sự đối lập giữa các nhóm.",
+              "color": "#2DD4BF"
+            }
+          ],
+          "color": "#2DD4BF"
+        },
+        {
+          "id": "chapter-3-2",
+          "title": "Khái niệm giai cấp",
+          "description": "Giai cấp là nhóm người có tình trạng kinh tế, quyền lợi và vị trí khác nhau trong xã hội.",
+          "children": [
+            {
+              "id": "chapter-3-2-1",
+              "title": "Đấu tranh giai cấp",
+              "description": "Đấu tranh giai cấp là quá trình các nhóm tranh đấu để bảo vệ quyền lợi và thay đổi điều kiện xã hội.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-2-2",
+              "title": "Dân tộc",
+              "description": "Dân tộc là một nhóm người có chung bản sắc, lịch sử, ngôn ngữ và mục tiêu cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-2-3",
+              "title": "Nhà nước",
+              "description": "Nhà nước là tổ chức quyền lực có chức năng bảo vệ quyền lợi và duy trì trật tự xã hội.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-2-4",
+              "title": "Cách mạng xã hội",
+              "description": "Cách mạng xã hội là hệ thống các tổ chức phản ánh và thực hiện các mục tiêu cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-2-5",
+              "title": "Tồn tại xã hội và ý thức xã hội",
+              "description": "Tồn tại xã hội được hình thành bởi các quan hệ vật chất; ý thức xã hội phản ánh và tổ chức các giá trị của cộng đồng.",
+              "color": "#2DD4BF"
+            }
+          ],
+          "color": "#2DD4BF"
+        },
+        {
+          "id": "chapter-3-3",
+          "title": "Tồn tại xã hội",
+          "description": "Tồn tại xã hội gồm các yếu tố vật chất, hoàn cảnh và quan hệ giữa các nhóm cộng đồng.",
+          "children": [
+            {
+              "id": "chapter-3-3-1",
+              "title": "Ý thức xã hội",
+              "description": "Ý thức xã hội gồm các hệ thống nhận thức, giá trị, lệch và các hướng điệp khúc của cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-3-2",
+              "title": "Quan hệ giữa tồn tại xã hội và ý thức xã hội",
+              "description": "Tồn tại xã hội tạo điều kiện cho ý thức xã hội phát triển; ý thức xã hội hướng dẫn và tổ chức các hoạt động cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-3-3",
+              "title": "Con người và lịch sử",
+              "description": "Con người là yếu tố cốt lõi của xã hội; lịch sử là quá trình biến động và phát triển của con người.",
+              "color": "#2DD4BF"
+            }
+          ],
+          "color": "#2DD4BF"
+        },
+        {
+          "id": "chapter-3-4",
+          "title": "Bản chất con người",
+          "description": "Bản chất con người gồm năng lực nhận thức, cảm xúc, tư duy và khả năng tự tổ chức hành động.",
+          "children": [
+            {
+              "id": "chapter-3-4-1",
+              "title": "Quần chúng nhân dân",
+              "description": "Quần chúng nhân dân là tập đoàn người có chung lịch sử, ngôn ngữ, tín ngưỡng và mục tiêu cộng đồng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-4-2",
+              "title": "Cá nhân",
+              "description": "Cá nhân là một phần của cộng đồng với năng lực, hoàn cảnh và hành động riêng.",
+              "color": "#2DD4BF"
+            },
+            {
+              "id": "chapter-3-4-3",
+              "title": "Vai trò của con người trong lịch sử",
+              "description": "Con người tạo ra, biến động và phát triển lịch sử qua hoạt động sản xuất, tư duy và hành động xã hội.",
+              "color": "#2DD4BF"
+            }
+          ],
+          "color": "#2DD4BF"
+        }
+      ]
+    }
+  ]
+}

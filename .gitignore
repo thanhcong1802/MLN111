@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temporary files
+.tmp/
+temp/
+
+# Local test artifacts
+*.test.js
+*.spec.js
+
+# Package manager files
+# Uncomment để bỏ qua lock file nếu không muốn commit chúng:
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

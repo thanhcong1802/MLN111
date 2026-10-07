@@ -1,0 +1,1 @@
+import {readJson} from '../models/jsonModel.js';export const mindmap=(req,res)=>res.json(readJson('mindmap.json'));export const flashcards=(req,res)=>res.json(readJson('flashcards.json'));

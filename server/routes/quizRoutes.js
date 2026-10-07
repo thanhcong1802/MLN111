@@ -1,0 +1,1 @@
+import {Router} from 'express';import {getQuiz,submit} from '../controllers/quizController.js';const r=Router();r.get('/random',getQuiz);r.post('/submit',submit);export default r;

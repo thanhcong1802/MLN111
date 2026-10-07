@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "topic": "Chương 2",
+    "front": "Chủ nghĩa duy vật",
+    "back": "Quan điểm cho rằng vật chất có trước, ý thức có sau và vật chất quyết định ý thức."
+  },
+  {
+    "id": 2,
+    "topic": "Chương 2",
+    "front": "Vật chất",
+    "back": "Thực tại khách quan, tồn tại độc lập với ý thức và được ý thức con người phản ánh."
+  },
+  {
+    "id": 3,
+    "topic": "Chương 2",
+    "front": "Vận động",
+    "back": "Phương thức tồn tại của vật chất; hiểu rộng là mọi sự biến đổi."
+  },
+  {
+    "id": 4,
+    "topic": "Chương 2",
+    "front": "Không gian và thời gian",
+    "back": "Những hình thức tồn tại của vật chất."
+  },
+  {
+    "id": 5,
+    "topic": "Chương 2",
+    "front": "Nguồn gốc tự nhiên của ý thức",
+    "back": "Bộ não người và thế giới khách quan."
+  },
+  {
+    "id": 6,
+    "topic": "Chương 2",
+    "front": "Nguồn gốc xã hội của ý thức",
+    "back": "Lao động và ngôn ngữ."
+  },
+  {
+    "id": 7,
+    "topic": "Chương 2",
+    "front": "Bản chất của ý thức",
+    "back": "Sự phản ánh hiện thực khách quan vào bộ não người một cách năng động, sáng tạo."
+  },
+  {
+    "id": 8,
+    "topic": "Chương 2",
+    "front": "Quan hệ vật chất – ý thức",
+    "back": "Vật chất quyết định ý thức; ý thức tác động trở lại vật chất thông qua hoạt động thực tiễn."
+  },
+  {
+    "id": 9,
+    "topic": "Chương 2",
+    "front": "Phép biện chứng",
+    "back": "Phương pháp xem xét sự vật trong mối liên hệ, vận động và phát triển."
+  },
+  {
+    "id": 10,
+    "topic": "Chương 2",
+    "front": "Nguyên lý mối liên hệ phổ biến",
+    "back": "Mọi sự vật, hiện tượng tồn tại trong mối liên hệ với các sự vật, hiện tượng khác."
+  },
+  {
+    "id": 11,
+    "topic": "Chương 2",
+    "front": "Nguyên lý về sự phát triển",
+    "back": "Mọi sự vật, hiện tượng không ngừng vận động và phát triển."
+  },
+  {
+    "id": 12,
+    "topic": "Chương 2",
+    "front": "Chất",
+    "back": "Tính quy định khách quan làm cho sự vật là nó và phân biệt với sự vật khác."
+  },
+  {
+    "id": 13,
+    "topic": "Chương 2",
+    "front": "Lượng",
+    "back": "Tính quy định về quy mô, số lượng, trình độ, tốc độ..."
+  },
+  {
+    "id": 14,
+    "topic": "Chương 2",
+    "front": "Độ",
+    "back": "Giới hạn mà trong đó lượng thay đổi nhưng chất cơ bản chưa đổi."
+  },
+  {
+    "id": 15,
+    "topic": "Chương 2",
+    "front": "Điểm nút",
+    "back": "Điểm giới hạn mà sự thay đổi về lượng có thể dẫn đến thay đổi về chất."
+  },
+  {
+    "id": 16,
+    "topic": "Chương 2",
+    "front": "Bước nhảy",
+    "back": "Sự chuyển hóa về chất khi lượng tích lũy tới điểm nút."
+  },
+  {
+    "id": 17,
+    "topic": "Chương 2",
+    "front": "Mặt đối lập",
+    "back": "Những mặt, khuynh hướng trái ngược nhau nhưng cùng tồn tại trong một sự vật."
+  },
+  {
+    "id": 18,
+    "topic": "Chương 2",
+    "front": "Mâu thuẫn biện chứng",
+    "back": "Sự thống nhất và đấu tranh giữa các mặt đối lập."
+  },
+  {
+    "id": 19,
+    "topic": "Chương 2",
+    "front": "Phủ định biện chứng",
+    "back": "Sự phủ định có tính kế thừa, tạo điều kiện cho phát triển."
+  },
+  {
+    "id": 20,
+    "topic": "Chương 2",
+    "front": "Cái riêng",
+    "back": "Một sự vật, hiện tượng cụ thể."
+  },
+  {
+    "id": 21,
+    "topic": "Chương 2",
+    "front": "Cái chung",
+    "back": "Những đặc điểm lặp lại ở nhiều sự vật, hiện tượng."
+  },
+  {
+    "id": 22,
+    "topic": "Chương 2",
+    "front": "Nguyên nhân",
+    "back": "Sự tác động lẫn nhau làm xuất hiện một biến đổi nhất định."
+  },
+  {
+    "id": 23,
+    "topic": "Chương 2",
+    "front": "Kết quả",
+    "back": "Biến đổi xuất hiện do tác động của nguyên nhân."
+  },
+  {
+    "id": 24,
+    "topic": "Chương 2",
+    "front": "Tất nhiên",
+    "back": "Cái do nguyên nhân cơ bản, bên trong quyết định và trong điều kiện nhất định phải xảy ra."
+  },
+  {
+    "id": 25,
+    "topic": "Chương 2",
+    "front": "Ngẫu nhiên",
+    "back": "Cái có thể xảy ra hoặc không, có thể xuất hiện theo cách khác nhau."
+  },
+  {
+    "id": 26,
+    "topic": "Chương 2",
+    "front": "Nội dung",
+    "back": "Tổng hợp những yếu tố, quá trình tạo nên sự vật."
+  },
+  {
+    "id": 27,
+    "topic": "Chương 2",
+    "front": "Hình thức",
+    "back": "Phương thức tồn tại và biểu hiện của nội dung."
+  },
+  {
+    "id": 28,
+    "topic": "Chương 2",
+    "front": "Bản chất",
+    "back": "Tổng hợp các mối liên hệ tất nhiên, tương đối ổn định bên trong sự vật."
+  },
+  {
+    "id": 29,
+    "topic": "Chương 2",
+    "front": "Hiện tượng",
+    "back": "Sự biểu hiện ra bên ngoài của bản chất."
+  },
+  {
+    "id": 30,
+    "topic": "Chương 2",
+    "front": "Khả năng",
+    "back": "Cái hiện chưa có nhưng có thể xuất hiện khi đủ điều kiện."
+  },
+  {
+    "id": 31,
+    "topic": "Chương 2",
+    "front": "Hiện thực",
+    "back": "Cái đang tồn tại thực tế."
+  },
+  {
+    "id": 32,
+    "topic": "Chương 2",
+    "front": "Quan điểm khách quan",
+    "back": "Xuất phát từ thực tế khách quan, tôn trọng quy luật khách quan."
+  },
+  {
+    "id": 33,
+    "topic": "Chương 2",
+    "front": "Quan điểm toàn diện",
+    "back": "Xem xét sự vật trong nhiều mối liên hệ."
+  },
+  {
+    "id": 34,
+    "topic": "Chương 2",
+    "front": "Quan điểm phát triển",
+    "back": "Nhìn nhận sự vật trong quá trình vận động và phát triển."
+  },
+  {
+    "id": 35,
+    "topic": "Chương 2",
+    "front": "Quan điểm lịch sử – cụ thể",
+    "back": "Xem xét sự vật trong điều kiện không gian, thời gian và hoàn cảnh cụ thể."
+  },
+  {
+    "id": 36,
+    "topic": "Chương 2",
+    "front": "Ý thức đúng đắn",
+    "back": "Có thể thúc đẩy hoạt động thực tiễn khi phản ánh đúng quy luật khách quan."
+  },
+  {
+    "id": 37,
+    "topic": "Chương 2",
+    "front": "Ý thức sai lầm",
+    "back": "Có thể gây hậu quả tiêu cực khi nhận thức và hành động trái quy luật khách quan."
+  },
+  {
+    "id": 38,
+    "topic": "Chương 2",
+    "front": "Duy ý chí",
+    "back": "Lấy mong muốn chủ quan thay cho điều kiện thực tế."
+  },
+  {
+    "id": 39,
+    "topic": "Chương 2",
+    "front": "Quan điểm siêu hình",
+    "back": "Có xu hướng xem xét sự vật cô lập, tĩnh tại, ít chú ý vận động và liên hệ."
+  },
+  {
+    "id": 40,
+    "topic": "Chương 2",
+    "front": "Công thức phương pháp luận",
+    "back": "Tôn trọng khách quan + phát huy tính chủ động, sáng tạo = hành động hiệu quả."
+  }
+]

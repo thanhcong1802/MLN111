@@ -1,0 +1,1 @@
+import {Router} from 'express';import {mindmap,flashcards} from '../controllers/contentController.js';const r=Router();r.get('/mindmap',mindmap);r.get('/flashcards',flashcards);export default r;

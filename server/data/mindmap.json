@@ -1,0 +1,49 @@
+{
+  "title": "SƠ ĐỒ TƯ DUY – BA CHỦ ĐỀ TRIẾT HỌC",
+  "subtitle": "Học tập theo ba lớp kiến thức: triết học, duy vật biện chứng và duy vật lịch sử.",
+  "overview": "Triết học Mác – Lênin nghiên cứu cách nhận thức và phân tích sự vật trong mối liên hệ với lịch sử, xã hội và con người. Duy vật biện chứng giải thích sự tồn tại của vật chất và ý thức; duy vật lịch sử tập trung vào sự phát triển và biến động của các dạng xã hội.",
+  "branches": [
+    {
+      "id": 1,
+      "title": "1. Khái luận triết học & Mác – Lênin",
+      "subtitle": "Hệ thống nhận thức và phân tích kiến thức",
+      "color": "#0878d1",
+      "definition": "Triết học là hệ thống kiến thức về tự nhiên, con người, xã hội và lịch sử. Triết học Mác – Lênin là hệ thống này tập trung vào vật chất, ý thức, lịch sử và các mối liên hệ phát triển của sự vật.",
+      "sections": [
+        { "title": "Đối tượng của triết học", "items": ["Tự nhiên và các sự vật trong đó", "Con người và hoạt động của con người", "Xã hội, lịch sử và các quan hệ xã hội"] },
+        { "title": "Chức năng của triết học", "items": ["Nhận thức các sự vật một cách có hệ thống", "Xác định bản chất, quy luật và trạng thái phát triển", "Phân tích các mối liên hệ và biến động"] },
+        { "title": "Nguyên tắc Mác – Lênin", "items": ["Vật chất quyết định ý thức", "Sự phát triển không ngừng", "Sự biến động thông qua các đối lập", "Các sự vật tồn tại trong mối liên hệ phổ biến"] },
+        { "title": "Cách phân tích", "items": ["Xác định bản chất của sự vật", "Xem xét vật chất, ý thức và quan hệ", "Đánh giá sự phát triển theo thời gian", "Kết luận từ thực tiễn và các dẫn chứng"] }
+      ],
+      "example": "<strong>Ví dụ:</strong> Khi nghiên cứu một ngành nghề, triết học không chỉ kể tên nghề mà còn phân tích nguồn lực, điều kiện, biến động và tác động đến con người."
+    },
+    {
+      "id": 2,
+      "title": "2. Chủ nghĩa duy vật biện chứng",
+      "subtitle": "Vật chất, ý thức và quan hệ",
+      "color": "#f28c3c",
+      "definition": "Chủ nghĩa duy vật biện chứng cho rằng vật chất và ý thức tồn tại trong mối liên hệ sâu xa; vật chất có trước và quyết định ý thức, còn ý thức tác động trở lại vật chất qua hoạt động thực tiễn.",
+      "sections": [
+        { "title": "Vật chất", "items": ["Thực tại khách quan", "Tồn tại độc lập với ý thức", "Vận động và phát triển"] },
+        { "title": "Ý thức", "items": ["Phản ánh vật chất trong bộ não người", "Có nguồn gốc tự nhiên và xã hội", "Có tính độc lập tương đối"] },
+        { "title": "Quan hệ vật chất – ý thức", "items": ["Vật chất quyết định ý thức", "Ý thức phản ánh và tổng hợp vật chất", "Hoạt động thực tiễn làm ý thức ảnh hưởng vật chất"] },
+        { "title": "Phép biện chứng", "items": ["Nguyên lý mối liên hệ phổ biến", "Nguyên lý sự phát triển", "Ba quy luật: lượng – chất, đối lập, phủ định"] }
+      ],
+      "example": "<strong>Ví dụ:</strong> Khi một người học một kiến thức mới, vật chất là kiến thức đó; ý thức là cách cá nhân hiểu và cảm nhận nó."
+    },
+    {
+      "id": 3,
+      "title": "3. Chủ nghĩa duy vật lịch sử",
+      "subtitle": "Sự phát triển của lịch sử và xã hội",
+      "color": "#8b5cf6",
+      "definition": "Chủ nghĩa duy vật lịch sử xem lịch sử như một quá trình phát triển của sự vật, trong đó các nguyên nhân, hoàn cảnh và hoạt động con người tạo nên các biến động bộ phận.",
+      "sections": [
+        { "title": "Lịch sử là quá trình", "items": ["Có sự phát triển theo thời gian", "Mỗi giai đoạn có đặc điểm riêng", "Các hiện tượng liên tục biến đổi"] },
+        { "title": "Các nguyên nhân lịch sử", "items": ["Nguồn lực tự nhiên và công nghệ", "Hoạt động của con người", "Cá chế, chính trị và quan hệ xã hội"] },
+        { "title": "Sự phát triển của xã hội", "items": ["Cá nhân, gia đình và cộng đồng", "Công ty, nhà nước và hệ thống văn hóa", "Các biến động từ thể chế này sang thể chế khác"] },
+        { "title": "Phương pháp lịch sử", "items": ["Xem xét thời gian và hoàn cảnh", "So sánh các giai đoạn khác nhau", "Xác định nguyên nhân dẫn đến biến động"] }
+      ],
+      "example": "<strong>Ví dụ:</strong> Sự biến động của một quốc gia có thể được nghiên cứu qua biến động kinh tế, chính trị, văn hóa và hoạt động của người dân."
+    }
+  ]
+}
