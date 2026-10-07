@@ -1,0 +1,238 @@
+HƯỚNG DẪN SỬ DỤNG WEBSITE TRIẾT HỌC MÁC – LÊNIN
+================================================
+
+Website: https://mln-111-nine.vercel.app/
+Tài liệu mô tả các chức năng theo mã nguồn hiện tại của project.
+
+1. BẮT ĐẦU VÀ ĐIỀU HƯỚNG
+-------------------------
+Mở địa chỉ website bằng trình duyệt có kết nối Internet.
+Website không yêu cầu đăng nhập hoặc tạo tài khoản.
+
+Thanh menu phía trên có bốn mục:
+- Trang chủ: giới thiệu website và các hình thức học tập.
+- Sơ đồ tư duy: khám phá hệ thống kiến thức trong không gian 3D.
+- Flashcard: ôn kiến thức bằng thẻ hỏi – đáp.
+- Trắc nghiệm: làm bài theo chương và nhận điểm.
+
+Bạn cũng có thể chọn các thẻ chức năng trên trang chủ hoặc các liên kết
+ở cuối trang để chuyển đến nội dung tương ứng.
+
+Đường dẫn trực tiếp:
+- Trang chủ: https://mln-111-nine.vercel.app/
+- Sơ đồ: https://mln-111-nine.vercel.app/mindmap
+- Flashcard: https://mln-111-nine.vercel.app/flashcards
+- Trắc nghiệm: https://mln-111-nine.vercel.app/quiz
+
+2. TRANG CHỦ
+------------
+Trang chủ giới thiệu ba cách học và số liệu tổng quan.
+- Chọn "Khám phá" trong thẻ Sơ đồ tư duy để mở sơ đồ 3D.
+- Chọn "Ôn tập" trong thẻ Flashcard để bắt đầu lật thẻ.
+- Chọn "Làm bài" trong thẻ Trắc nghiệm ABCD để luyện câu hỏi.
+
+3. SƠ ĐỒ TƯ DUY 3D
+------------------
+Sơ đồ gồm nút trung tâm và ba chương chính:
+- Chương 1: Khái luận về triết học; màu cam.
+- Chương 2: Chủ nghĩa duy vật biện chứng; màu tím.
+- Chương 3: Chủ nghĩa duy vật lịch sử; màu xanh ngọc.
+
+3.1. Di chuyển góc nhìn
+- Giữ chuột trái và kéo trên vùng trống để dịch chuyển góc nhìn.
+- Giữ chuột phải và kéo để xoay góc nhìn.
+- Lăn bánh xe chuột để phóng gần hoặc thu xa.
+- Trên thiết bị cảm ứng: kéo một ngón để dịch chuyển; dùng hai ngón
+  để phóng/thu và xoay.
+- Nếu mất phương hướng, chọn Home trên thanh công cụ của sơ đồ.
+
+3.2. Chọn và khám phá nút kiến thức
+- Nhấn vào hình cầu hoặc nhãn tên của một nút để chọn.
+- Nút được chọn sẽ nổi bật và góc nhìn tập trung vào nút đó.
+- Nhấn nút chương hoặc nhánh có nút con để mở/thu gọn nhánh.
+- Thanh đường dẫn phía trên sơ đồ thể hiện vị trí của nội dung đang chọn.
+- Các đường nối giúp nhận biết quan hệ giữa chương, chủ đề và ý nhỏ.
+
+3.3. Xem giải thích và ví dụ
+1) Chọn một nút kiến thức.
+2) Nhấn "Hiện chi tiết" xuất hiện gần nút đã chọn.
+3) Đọc phần "Giải thích" và "Ví dụ minh họa" trong cửa sổ chi tiết.
+4) Nhấn "Quay lại sơ đồ", nút X, phím Esc hoặc vùng bên ngoài cửa sổ
+   để đóng và tiếp tục khám phá.
+
+3.4. Thanh công cụ
+- Home: đưa góc nhìn về vị trí tổng quan của sơ đồ đang hiển thị.
+  Nút này không chuyển sang trang chủ website.
+- Zoom +: phóng gần.
+- Zoom −: thu xa.
+- Expand All: mở toàn bộ các nhánh.
+- Collapse All: thu gọn các nhánh, giữ cấu trúc tổng quan.
+
+4. FLASHCARD – ÔN NHANH KIẾN THỨC
+--------------------------------
+1) Chọn Flashcard trên thanh menu.
+2) Đợi danh sách thẻ tải xong.
+3) Đọc chủ đề và câu hỏi ở mặt trước, tự nghĩ câu trả lời.
+4) Nhấn vào thẻ để lật sang mặt sau và xem giải thích.
+5) Nhấn lại vào thẻ để trở về mặt trước.
+6) Nhấn "Tiếp →" để sang thẻ kế tiếp hoặc "← Trước" để quay lại.
+
+Số thứ tự hiện phía trên cho biết thẻ đang xem / tổng số thẻ.
+Khi chuyển thẻ, thẻ mới luôn hiện mặt trước.
+Ở thẻ cuối, nhấn Tiếp sẽ quay về thẻ đầu; ở thẻ đầu, nhấn Trước sẽ
+quay về thẻ cuối.
+
+Gợi ý ôn tập: trả lời trước khi lật, đọc kỹ giải thích, rồi quay lại
+những thẻ chưa nhớ. Website không có nút đánh dấu thẻ đã thuộc.
+
+5. TRẮC NGHIỆM THEO CHƯƠNG
+--------------------------
+5.1. Chọn đề
+- Khi mở trang, hệ thống tải đề Chương 1.
+- Nhấn một trong ba nút chương để lấy đề của chương tương ứng.
+- Mỗi lượt lấy ngẫu nhiên 30 câu; thứ tự phương án cũng được trộn.
+- Nhấn lại một chương cũng tạo lượt đề mới và xóa câu trả lời hiện tại.
+
+5.2. Làm bài và chuyển trang
+1) Đọc câu hỏi rồi nhấn một phương án A, B, C hoặc D.
+2) Mỗi câu chỉ chọn một đáp án. Nhấn phương án khác để đổi lựa chọn.
+3) Mỗi trang hiển thị 2 câu; một đề có 15 trang.
+4) Dùng "Tiếp →" và "← Trước" để chuyển trang câu hỏi.
+5) Các đáp án đã chọn được giữ khi chuyển trang trong cùng lượt làm bài.
+6) Theo dõi "Đã làm .../30 câu" ở thanh phía dưới.
+
+5.3. Nộp bài và xem điểm
+- Nút "Nộp bài" chỉ khả dụng khi đã trả lời đủ 30 câu và đề tải xong.
+- Nhấn Nộp bài, chờ hệ thống chấm điểm.
+- Trang cuộn lên đầu và hiện số câu đúng trên tổng 30 câu.
+- Từ 24 đến 30 câu đúng: "Xuất sắc!".
+- Từ 16 đến 23 câu đúng: "Tốt!".
+- Dưới 16 câu đúng: "Hãy thử lại!".
+- Giao diện hiện tại hiển thị điểm tổng và lời nhận xét; chưa có phần
+  hiển thị giải thích đúng/sai riêng cho từng câu sau khi nộp.
+
+5.4. Làm đề mới
+- Sau khi có điểm, nhấn "Làm đề mới" để lấy đề mới của chương đang chọn.
+- Bạn cũng có thể chọn chương khác để luyện nội dung khác.
+- Đề mới có thể chứa một số câu trùng với lượt trước do lấy ngẫu nhiên.
+
+5.5. Lưu ý về tiến độ
+- Website hiện không lưu lịch sử điểm hoặc tiến độ vào tài khoản.
+- Đổi chương, tạo đề mới, tải lại hoặc rời trang Trắc nghiệm sẽ làm mất
+  lượt làm bài hiện tại.
+- Không có đồng hồ đếm ngược hoặc giới hạn thời gian làm bài.
+
+6. MÈO LOAN ANH – BẠN ĐỒNG HÀNH
+-------------------------------
+Mèo Loan Anh xuất hiện trên các trang, có thể tự đi lại và hiện lời nhắn.
+
+6.1. Di chuyển và mở menu
+- Giữ chuột trái hoặc chạm giữ vào mèo, kéo đến vị trí mong muốn rồi thả.
+- Nhấn vào mèo mà không kéo để mở/đóng menu tương tác.
+- Có thể di chuyển mèo nếu mèo che nội dung đang học.
+
+6.2. Các nút tương tác
+- Trái tim: vuốt ve; mèo biểu lộ vui vẻ và hiện lời nhắn.
+- Con cá: cho ăn; mèo phản hồi bằng lời cảm ơn.
+- Mặt trăng: cho mèo ngủ. Khi ngủ, nút chuyển thành biểu tượng phát;
+  nhấn để đánh thức. Vuốt ve hoặc cho ăn cũng đánh thức mèo.
+- Mặt cười: mở cửa sổ meme thư giãn.
+- Bong bóng hội thoại: nghe một câu chuyện vui của Loan Anh.
+- X trong menu mèo: ẩn mèo.
+- Sau khi ẩn, nhấn nút hình mèo nhỏ để hiện lại.
+
+Mèo có thể tự kể chuyện khi đang thức và không bận tương tác.
+Các trạng thái và vị trí mèo hiện không được lưu sau khi tải lại trang.
+
+7. MEME THƯ GIÃN
+----------------
+1) Nhấn nút mặt cười cạnh mèo hoặc trong menu tương tác.
+2) Đọc nội dung vui trong cửa sổ "Nghỉ một chút cùng Loan Anh".
+3) Nhấn "Meme khác" để đổi nội dung.
+4) Nhấn "Học tiếp thôi!", nút X, phím Esc hoặc vùng ngoài cửa sổ để đóng.
+
+Meme dùng để thư giãn, không thay thế phần kiến thức bài học.
+Mở/đóng meme không khởi tạo lại đề trắc nghiệm đang làm.
+
+8. GỢI Ý MỘT BUỔI HỌC
+----------------------
+1) Xem sơ đồ để nắm bố cục chương.
+2) Chọn các nút, đọc giải thích và ví dụ.
+3) Ôn flashcard để tự kiểm tra khả năng ghi nhớ.
+4) Làm 30 câu trắc nghiệm của chương vừa học.
+5) Xem điểm, ôn lại nội dung còn yếu và làm một lượt đề mới.
+6) Khi cần nghỉ, tương tác với Loan Anh hoặc xem meme.
+
+9. XỬ LÝ SỰ CỐ THƯỜNG GẶP
+--------------------------
+9.1. Flashcard đứng ở "Đang tải..."
+- Kiểm tra Internet và tải lại trang.
+- Thử mở https://mln111-api.vercel.app/api/content/flashcards.
+- Nếu không hiện danh sách JSON, báo người quản trị kiểm tra backend.
+- Nếu API có dữ liệu nhưng trang không tải, báo người quản trị kiểm tra
+  VITE_API_URL của frontend và bản deploy mới nhất.
+
+9.2. Trắc nghiệm báo không có câu hỏi
+- Thử chọn lại chương, kiểm tra Internet rồi tải lại trang nếu cần.
+- Việc tải lại trang sẽ xóa các câu trả lời chưa nộp.
+- Nếu lỗi tiếp diễn, gửi tên chương và thông báo lỗi cho người quản trị.
+
+9.3. Nút Nộp bài không bấm được
+- Kiểm tra đã trả lời đủ 30/30 câu chưa.
+- Dùng Trước/Tiếp để tìm câu còn bỏ trống.
+- Chờ đề tải xong trước khi nộp.
+
+9.4. Nộp bài nhưng chưa có điểm
+- Kiểm tra Internet và chờ phản hồi từ API.
+- Không tải lại trang ngay vì sẽ mất lượt làm bài.
+- Nếu lỗi kéo dài, báo người quản trị kèm ảnh hoặc nội dung lỗi.
+
+9.5. Sơ đồ không hiện hoặc chạy chậm
+- Dùng trình duyệt có hỗ trợ WebGL, thử trình duyệt khác nếu cần.
+- Đóng các tab không cần thiết và dùng Collapse All để giảm số nút.
+- Nếu góc nhìn lệch hoặc các nút khó thấy, nhấn Home rồi điều chỉnh Zoom.
+
+9.6. Refresh đường dẫn trực tiếp bị 404
+- Mở trang chủ rồi đi đến chức năng bằng menu.
+- Báo người quản trị kiểm tra cấu hình chuyển hướng React Router
+  trong client/vercel.json và redeploy frontend.
+
+10. THÔNG TIN DÀNH CHO NGƯỜI QUẢN TRỊ
+------------------------------------
+Phần này dành cho việc kiểm tra hệ thống, không cần thiết khi học bài.
+
+Backend: https://mln111-api.vercel.app
+Các endpoint kiểm tra:
+- GET /api/health: kết quả mong đợi {"ok":true}.
+- GET /api/content/flashcards: danh sách thẻ hỏi – đáp.
+- GET /api/content/mindmap: dữ liệu sơ đồ của API. Trang sơ đồ 3D hiện
+  sử dụng dữ liệu có sẵn trong frontend.
+- GET /api/quiz/random?chapter=1: đề 30 câu của Chương 1.
+  Thay chapter=2 hoặc chapter=3 để kiểm tra chương còn lại.
+- POST /api/quiz/submit: chấm bài; gửi JSON có trường answers.
+  Gửi {"answers":{}} để kiểm tra, mong đợi score=0, total=0, detail=[].
+
+Trang gốc backend có thể hiện "Cannot GET /" vì không có route trang chủ.
+Hãy kiểm tra bằng /api/health thay vì chỉ mở domain gốc.
+
+Cấu hình hai project Vercel:
+- Backend: Root Directory = server; Framework = Express.
+- Frontend: Root Directory = client; Framework = Vite;
+  Build Command = npm run build; Output Directory = dist.
+- Biến môi trường frontend:
+  VITE_API_URL=https://mln111-api.vercel.app
+  Không thêm /api vào cuối giá trị.
+- Khi đổi VITE_API_URL, cần redeploy frontend để áp dụng vào bản build.
+- Nếu sửa code, commit và push lên repository được kết nối với Vercel.
+
+Cách redeploy:
+1) Mở Vercel Dashboard và chọn project cần cập nhật.
+2) Vào Deployments.
+3) Nhấn dấu ba chấm của deployment và chọn Redeploy.
+4) Xác nhận Redeploy, đợi trạng thái Ready rồi kiểm tra lại website.
+
+Khi báo lỗi cho người quản trị, cung cấp đường dẫn trang, thao tác vừa
+thực hiện và thông báo lỗi. Nếu biết dùng công cụ trình duyệt, nhấn F12,
+vào Network, tải lại trang và ghi Request URL, Status Code của request lỗi.
+
+HẾT TÀI LIỆU
