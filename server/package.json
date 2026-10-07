@@ -1,1 +1,12 @@
-{"name":"triet-api","type":"module","scripts":{"dev":"node --watch app.js","start":"node app.js"},"dependencies":{"cors":"^2.8.5","express":"^5.1.0","triet-hoc-chuong-2":"file:.."}}
+{
+  "name": "triet-api",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

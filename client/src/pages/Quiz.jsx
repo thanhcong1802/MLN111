@@ -1,3 +1,4 @@
+import { API_URL } from '../utils/api';
 import React, { useEffect, useState } from 'react';
 import { BookOpenCheck, CheckCircle2, RotateCcw, Sparkles } from 'lucide-react';
 import './quiz.css';
@@ -22,7 +23,7 @@ export default function Quiz() {
     setAnswers({});
     setResult(null);
     setQuestionPage(0);
-    fetch(`http://localhost:3001/api/quiz/random?chapter=${chapterId}`)
+    fetch(`${API_URL}/api/quiz/random?chapter=${chapterId}`)
       .then(response => response.ok ? response.json() : Promise.reject(response))
       .then(data => {
         setQuestions(data.questions || []);
@@ -35,7 +36,7 @@ export default function Quiz() {
   useEffect(() => { loadQuiz(1); }, []);
 
   const submit = async () => {
-    const response = await fetch('http://localhost:3001/api/quiz/submit', {
+    const response = await fetch(`${API_URL}/api/quiz/submit`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ answers })
